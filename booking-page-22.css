@@ -1,0 +1,434 @@
+.kindly-follow-the {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 325px;
+  height: 24px;
+}
+.payment1 {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--color-darkslateblue-100);
+}
+.title1 {
+  position: absolute;
+  top: 241px;
+  left: 565px;
+  width: 325px;
+  height: 82px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray-200);
+}
+.upload-bukti-transfer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 170%;
+  display: inline-block;
+  width: 288px;
+}
+.input-child4 {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  width: 320px;
+  height: 45px;
+}
+.buktibayarpng {
+  position: absolute;
+  top: 44px;
+  left: 14px;
+  line-height: 170%;
+  display: inline-block;
+  width: 195px;
+}
+.input6 {
+  position: absolute;
+  top: 403px;
+  left: 800px;
+  width: 320px;
+  height: 80px;
+}
+.transfer-pembayaran {
+  position: absolute;
+  top: 403px;
+  left: 320px;
+  line-height: 170%;
+  display: inline-block;
+  width: 288px;
+}
+.span23 {
+  font-weight: 500;
+}
+.sub-total-480-container,
+.tax-10,
+.total-580-usd-container {
+  position: absolute;
+  top: 450px;
+  left: 320px;
+  line-height: 170%;
+  display: inline-block;
+  width: 288px;
+}
+.sub-total-480-container,
+.total-580-usd-container {
+  top: 487px;
+}
+.total-580-usd-container {
+  top: 524px;
+}
+.input7,
+.input8 {
+  position: absolute;
+  top: 503px;
+  left: 800px;
+  width: 320px;
+  height: 80px;
+}
+.input8 {
+  top: 603px;
+}
+.booking-page-22-child {
+  position: absolute;
+  top: 373px;
+  left: 720px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 432px;
+}
+.stepper-inner {
+  position: absolute;
+  top: 30px;
+  left: 31px;
+  max-height: 100%;
+  width: 222px;
+}
+.item-icon1,
+.item-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+}
+.item-icon2 {
+  left: 110px;
+}
+.item-child2,
+.item-child3 {
+  position: absolute;
+  border-radius: 50%;
+}
+.item-child2 {
+  top: -5px;
+  left: -5px;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 60px;
+  height: 60px;
+  display: none;
+}
+.item-child3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 50px;
+  height: 50px;
+}
+.div57 {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-weight: 300;
+}
+.item33 {
+  top: 5px;
+  left: 225px;
+  width: 50px;
+  height: 50px;
+}
+.bg24,
+.item33,
+.stepper1 {
+  position: absolute;
+}
+.stepper1 {
+  top: 131px;
+  left: 580px;
+  width: 275px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.bg24 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-mediumslateblue);
+  box-shadow: 0 8px 15px rgba(50, 82, 223, 0.3);
+}
+.continue-to-book3 {
+  position: absolute;
+  width: 73.8%;
+  top: 18%;
+  left: 13.33%;
+  line-height: 170%;
+  font-weight: 500;
+  display: inline-block;
+}
+.btn-primary8 {
+  top: 855px;
+  left: 570px;
+  width: 300px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.bg25,
+.btn-primary8,
+.cancel3 {
+  position: absolute;
+}
+.bg25 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+}
+.cancel3 {
+  width: 73.8%;
+  top: 18%;
+  left: 13.33%;
+  line-height: 170%;
+  display: inline-block;
+}
+.btn-secondary3 {
+  position: absolute;
+  top: 925px;
+  left: 570px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray-100);
+}
+.logo-bank-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 35px;
+  object-fit: contain;
+}
+.bank-central-asia,
+.buildwith-angga,
+.div58 {
+  position: absolute;
+  top: 5px;
+  left: 76px;
+  line-height: 170%;
+  display: inline-block;
+  width: 147px;
+}
+.buildwith-angga,
+.div58 {
+  top: 32px;
+}
+.buildwith-angga {
+  top: 59px;
+}
+.item-bank,
+.logo-bank-icon1 {
+  position: absolute;
+  top: 571px;
+  left: 320px;
+  width: 223px;
+  height: 86px;
+}
+.logo-bank-icon1 {
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 35px;
+  object-fit: cover;
+}
+.bg26,
+.item-bank1 {
+  position: absolute;
+  top: 677px;
+  left: 320px;
+  width: 223px;
+  height: 86px;
+}
+.bg26 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 310px;
+}
+.divider-child11 {
+  background-color: var(--color-gainsboro-100);
+}
+.divider-child11,
+.divider13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1px;
+}
+.cation13 {
+  color: var(--color-darkslateblue-100);
+}
+.staycation13 {
+  position: absolute;
+  top: 51px;
+  left: 150px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  color: var(--color-mediumslateblue);
+}
+.we-kaboom-your6 {
+  margin: 0;
+}
+.copyright-20196,
+.we-kaboom-your-container6 {
+  position: absolute;
+  top: 98px;
+  left: 150px;
+  font-weight: 300;
+}
+.copyright-20196 {
+  top: 236px;
+  left: 537px;
+  text-align: center;
+}
+.for-beginners6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+  width: 137px;
+  height: 24px;
+}
+.new-account6,
+.start-booking-a6,
+.use-payments6 {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  font-weight: 300;
+}
+.start-booking-a6,
+.use-payments6 {
+  top: 79px;
+}
+.use-payments6 {
+  top: 111px;
+}
+.for-beginners-parent3 {
+  position: absolute;
+  top: 51px;
+  left: 540px;
+  width: 169px;
+  height: 135px;
+}
+.connect-us-parent4,
+.explore-us-parent4,
+.footer4 {
+  position: absolute;
+  top: 51px;
+  left: 779px;
+  width: 153px;
+  height: 135px;
+}
+.connect-us-parent4,
+.footer4 {
+  left: 1002px;
+  width: 225px;
+}
+.footer4 {
+  top: 975px;
+  left: 19px;
+  width: 1440px;
+  height: 310px;
+  color: var(--color-darkgray-200);
+}
+.bg-child12 {
+  background-color: var(--color-white);
+}
+.bg-child12,
+.bg27,
+.divider-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+}
+.divider-child12 {
+  top: 53px;
+  background-color: var(--color-gainsboro-100);
+  height: 1px;
+}
+.home-browse-by4 {
+  position: absolute;
+  top: 0;
+  left: 858px;
+  white-space: pre-wrap;
+}
+.divider14 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  width: 1440px;
+  height: 54px;
+}
+.staycation14 {
+  position: absolute;
+  top: 21px;
+  left: 130px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  color: var(--color-mediumslateblue);
+}
+.navigation-header7 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+}
+.booking-page-22 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1293px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-poppins);
+}

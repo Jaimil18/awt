@@ -1,0 +1,597 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 310px;
+}
+.divider-child {
+  background-color: var(--color-gainsboro-100);
+}
+.divider,
+.divider-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1px;
+}
+.cation {
+  color: var(--color-darkslateblue-100);
+}
+.staycation {
+  position: absolute;
+  top: 51px;
+  left: 150px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  color: var(--color-mediumslateblue);
+}
+.we-kaboom-your {
+  margin: 0;
+}
+.copyright-2019,
+.we-kaboom-your-container {
+  position: absolute;
+  top: 98px;
+  left: 150px;
+  font-weight: 300;
+}
+.copyright-2019 {
+  top: 236px;
+  left: 537px;
+  text-align: center;
+}
+.for-beginners {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+  width: 137px;
+  height: 24px;
+}
+.new-account,
+.start-booking-a,
+.use-payments {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  font-weight: 300;
+}
+.start-booking-a,
+.use-payments {
+  top: 79px;
+}
+.use-payments {
+  top: 111px;
+}
+.for-beginners-parent {
+  position: absolute;
+  top: 51px;
+  left: 540px;
+  width: 169px;
+  height: 135px;
+}
+.connect-us-parent,
+.explore-us-parent,
+.navigation {
+  position: absolute;
+  top: 51px;
+  left: 779px;
+  width: 153px;
+  height: 135px;
+}
+.connect-us-parent,
+.navigation {
+  left: 1002px;
+  width: 225px;
+}
+.navigation {
+  top: 3060px;
+  left: 0;
+  width: 1440px;
+  height: 310px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-200);
+}
+.most-picked1,
+.pic-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.most-picked1 {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-darkslateblue-100);
+}
+.pic-icon {
+  width: 361px;
+  height: 460px;
+  object-fit: cover;
+}
+.overlay-child {
+  border-radius: var(--br-mini);
+  background: linear-gradient(180.1deg, transparent, rgba(0, 0, 0, 0.5));
+}
+.badge-child,
+.overlay,
+.overlay-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 460px;
+}
+.badge-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 0 var(--br-mini) 0 var(--br-mini);
+  background-color: var(--color-deeppink);
+}
+.span {
+  font-weight: 500;
+}
+.per-night {
+  position: absolute;
+  width: 86.67%;
+  top: 15%;
+  left: 5.56%;
+  line-height: 170%;
+  display: inline-block;
+}
+.badge {
+  position: absolute;
+  top: 0;
+  left: 181px;
+  width: 180px;
+  height: 40px;
+  text-align: center;
+}
+.blue-origin-fams,
+.jakarta-indonesia {
+  position: absolute;
+  top: 383px;
+  left: 24px;
+  font-size: var(--font-size-xl);
+}
+.jakarta-indonesia {
+  top: 413px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+}
+.featured,
+.pic-icon1 {
+  position: absolute;
+  width: 361px;
+}
+.featured {
+  top: 56px;
+  left: 1px;
+  height: 460px;
+  font-size: var(--font-size-base);
+}
+.pic-icon1 {
+  top: 0;
+  left: 0;
+  height: 215px;
+  object-fit: cover;
+}
+.overlay-item {
+  border-radius: var(--br-mini);
+  background: linear-gradient(180.1deg, transparent, rgba(0, 0, 0, 0.5));
+}
+.overlay-item,
+.overlay1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 215px;
+}
+.bandung-indonesia,
+.ocean-land {
+  position: absolute;
+  top: 138px;
+  left: 24px;
+}
+.bandung-indonesia {
+  top: 168px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+}
+.badge1 {
+  position: absolute;
+  top: 0;
+  left: 181px;
+  width: 180px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.featured1 {
+  position: absolute;
+  top: 56px;
+  left: 391px;
+  width: 361px;
+  height: 215px;
+}
+.featured2,
+.stark-house {
+  position: absolute;
+  top: 138px;
+  left: 24px;
+  font-size: var(--font-size-xl);
+}
+.featured2 {
+  top: 56px;
+  left: 781px;
+  width: 361px;
+  height: 215px;
+  font-size: var(--font-size-base);
+}
+.featured3,
+.featured4,
+.most-picked {
+  position: absolute;
+  top: 301px;
+  left: 391px;
+  width: 361px;
+  height: 215px;
+}
+.featured4,
+.most-picked {
+  left: 781px;
+}
+.most-picked {
+  top: 678px;
+  left: 149px;
+  width: 1142px;
+  height: 516px;
+  color: var(--color-white);
+}
+.houses-with-beauty {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.pic-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 263px;
+  height: 180px;
+  object-fit: cover;
+}
+.choice {
+  font-weight: 300;
+}
+.badge5 {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  width: 180px;
+  height: 40px;
+  text-align: center;
+}
+.gunung-batu-indonesia,
+.tabby-town {
+  position: absolute;
+  top: 196px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+}
+.gunung-batu-indonesia {
+  top: 226px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  color: var(--color-darkgray-200);
+}
+.house-backyard {
+  position: absolute;
+  top: 56px;
+  left: 1px;
+  width: 263px;
+  height: 249px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.anggana {
+  position: absolute;
+  top: 196px;
+  left: 0;
+}
+.house-backyard1,
+.house-backyard2,
+.house-backyard3 {
+  position: absolute;
+  top: 56px;
+  left: 293px;
+  width: 263px;
+  height: 249px;
+}
+.house-backyard2,
+.house-backyard3 {
+  left: 586px;
+}
+.house-backyard3 {
+  left: 879px;
+}
+.house-with-backyard,
+.item,
+.item3 {
+  position: absolute;
+  top: 1264px;
+  left: 149px;
+  width: 1142px;
+  height: 305px;
+}
+.item,
+.item3 {
+  top: 56px;
+  left: 1px;
+  width: 263px;
+  height: 249px;
+}
+.item3 {
+  left: 879px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.hotels-living-room,
+.item6 {
+  position: absolute;
+  top: 1639px;
+  left: 149px;
+  width: 1142px;
+  height: 305px;
+}
+.item6 {
+  top: 56px;
+  left: 586px;
+  width: 263px;
+  height: 249px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.hotels-living-room1 {
+  position: absolute;
+  top: 2014px;
+  left: 149px;
+  width: 1142px;
+  height: 305px;
+}
+.foto-keluarga-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 405px;
+  height: 541px;
+  object-fit: contain;
+}
+.happy-family {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.what-a-great-container {
+  position: absolute;
+  top: 120px;
+  left: 4px;
+  font-size: var(--font-size-13xl);
+}
+.angga-product-designer {
+  position: absolute;
+  top: 224px;
+  left: 3px;
+  font-weight: 300;
+  color: var(--color-darkgray-200);
+}
+.bg1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-mediumslateblue);
+  box-shadow: 0 8px 15px rgba(50, 82, 223, 0.3);
+}
+.read-their-story {
+  position: absolute;
+  width: 73.81%;
+  top: 18%;
+  left: 13.33%;
+  line-height: 170%;
+  font-weight: 500;
+  display: inline-block;
+}
+.btn-primary {
+  position: absolute;
+  top: 301px;
+  left: 4px;
+  width: 210px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.group-child {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  width: 180px;
+  height: 36px;
+}
+.happy-family-parent,
+.happy-story {
+  position: absolute;
+  top: 95px;
+  left: 462px;
+  width: 596px;
+  height: 351px;
+}
+.happy-story {
+  top: 2419px;
+  left: 150px;
+  width: 1058px;
+  height: 541px;
+  font-size: var(--font-size-lg);
+}
+.forget-busy-work-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl);
+}
+.we-provide-what-container {
+  position: absolute;
+  top: 146px;
+  left: 0;
+  line-height: 170%;
+  font-weight: 300;
+  color: var(--color-darkgray-200);
+}
+.btn-primary1 {
+  position: absolute;
+  top: 257px;
+  left: 0;
+  width: 210px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.travelers1 {
+  font-weight: 300;
+  color: var(--color-darkgray-200);
+}
+.travelers {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  line-height: 170%;
+}
+.ic-cities-1-icon,
+.item8 {
+  position: absolute;
+  top: 389px;
+  left: 0;
+  width: 127px;
+  height: 69px;
+}
+.ic-cities-1-icon {
+  top: 0;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.cities {
+  position: absolute;
+  top: 42px;
+  left: 1px;
+  line-height: 170%;
+}
+.item10,
+.item9 {
+  position: absolute;
+  top: 389px;
+  left: 329px;
+  width: 84px;
+  height: 69px;
+}
+.item10 {
+  left: 178px;
+  width: 101px;
+}
+.banner-icon,
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 422px;
+  height: 458px;
+}
+.banner-icon {
+  left: 581px;
+  width: 559px;
+  height: 450px;
+  object-fit: cover;
+}
+.hero {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  width: 1140px;
+  height: 458px;
+  font-size: var(--font-size-base);
+}
+.bg-item {
+  background-color: var(--color-white);
+}
+.bg-item,
+.bg3,
+.divider1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+}
+.divider1 {
+  top: 79px;
+  height: 1px;
+}
+.staycation1 {
+  position: absolute;
+  top: 20px;
+  left: 150px;
+  font-weight: 500;
+}
+.browse-by {
+  color: var(--color-darkslateblue-100);
+  white-space: pre-wrap;
+}
+.home-browse-by-container {
+  position: absolute;
+  top: 25px;
+  left: 775px;
+  font-size: var(--font-size-base);
+  text-align: right;
+  display: inline-block;
+  width: 593px;
+  height: 24px;
+}
+.navigation-header {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3373px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-poppins);
+}
